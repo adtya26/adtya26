@@ -17,6 +17,7 @@
 ## 📫 Connect With Me
 
 **GitHub:** [@adtya26](https://github.com/adtya26)
+**Instagram:** [@adtyaalah_](https://www.instagram.com/adtyaalah_)
 
 ---
 
