@@ -36,7 +36,3 @@ I love learning coding, playing futsal, and making music. 🎸⚽💻
 
 > *"Hala Madrid y nada más."* 🤍👑
 </div>
-
-[![](https://komarev.com/ghpvc/?username=adtya26&icon=0&color=0)](https://visitcount.itsvg.in)
-
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
