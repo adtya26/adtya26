@@ -1,6 +1,11 @@
 # Yo, AGADIGIT is Here ⚡
 
-![Spiderman](img/spiderman.gif)
+<p align="center"> <img src="img/spiderman.gif" width="400"> </p>
+
+👨‍💻 About Me
+
+Hi! I'm AGADIGIT 👋
+I love learning coding, playing futsal, and making music. 🎸⚽💻
 
 ### Languages
 ![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
