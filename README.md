@@ -23,13 +23,13 @@ I love learning coding, playing futsal, and making music. 🎸⚽💻
 ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white)
 ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
 
-### 🌐 Socials:
+### 🌐 Socials
 
 **GitHub:** [@adtya26](https://github.com/adtya26)
 **Instagram:** [@adtyaalah_](https://www.instagram.com/adtyaalah_)
 **TikTok:** [@adtya.2.6](https://tiktok.com/@adtya.2.6)
 
-### 📊 GitHub Stats:
+### 📊 GitHub Stats
 
 ![](https://github-readme-stats.shion.dev/api?username=adtya26&theme=dark&hide_border=true&include_all_commits=true&count_private=false)<br/>
 ![](https://streak-stats.demolab.com/?user=adtya26&theme=dark&hide_border=true)<br/>
