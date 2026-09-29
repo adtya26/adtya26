@@ -14,15 +14,13 @@
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 
-📫 Connect With Me
+## 📫 Connect With Me
 
-<p align="center">
+**GitHub:** [@adtya26](https://github.com/adtya26)
+**Instagram:** [@adtyaalah_](https://www.instagram.com/adtyaalah_)
 
-<a href="https://github.com/adtya26"> <img src="https://img.shields.io/badge/GitHub-@adtya26-181717?style=for-the-badge&logo=github&logoColor=white"> </a>
-
-<a href="https://www.instagram.com/adtyaalah_/"> <img src="https://img.shields.io/badge/Instagram-@adtyaalah_-E4405F?style=for-the-badge&logo=instagram&logoColor=white"> </a>
-
-</p>
 ---
 
 > *"Hala Madrid y nada más."* 🤍👑
+
+kasih unter kebawah dia github dan instaram dan tambahkan informasi lainnya
