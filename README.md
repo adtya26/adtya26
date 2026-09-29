@@ -2,9 +2,7 @@
 <div align="center">
 <p align="center"> <img src="img/spiderman.gif" width="600"> </p>
 
-👨‍💻 About Me
-
-### Languages
+### About Me
 
 Hi! I'm AGADIGIT 👋
 I love learning coding, playing futsal, and making music. 🎸⚽💻
