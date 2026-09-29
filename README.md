@@ -1,3 +1,4 @@
+<div align="center">
 # Yo, AGADIGIT is Here ⚡
 
 <p align="center"> <img src="img/spiderman.gif" width="600"> </p>
@@ -27,3 +28,4 @@ I love learning coding, playing futsal, and making music. 🎸⚽💻
 ---
 
 > *"Hala Madrid y nada más."* 🤍👑
+</div>
