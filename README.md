@@ -1,4 +1,4 @@
-# Yo, Adit is Here ⚡
+# Yo, AGADIGIT is Here ⚡
 
 ![Spiderman](img/spiderman.gif)
 
