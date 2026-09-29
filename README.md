@@ -1,6 +1,6 @@
 # Yo, Adit is Here ⚡
 
-![Spiderman](./img/spiderman.gif)
+![Spiderman](img/spiderman.gif)
 
 ### Languages
 ![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
