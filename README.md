@@ -4,7 +4,7 @@
 
 ### About Me
 
-Hi! I'm AGADIGIT 👋
+Hi! I'm ADITYA 👋
 I love learning coding, playing futsal, and making music. 🎸⚽💻
 
 ### Languages
